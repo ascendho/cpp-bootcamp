@@ -1,0 +1,80 @@
+# C++ 编译生成的文件
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# 无扩展名的可执行文件 (Unix/Linux/macOS)
+# 常见的可执行文件名
+references
+move_semantics
+main
+test
+a.out
+
+# 编译器和构建工具生成的文件
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Visual Studio
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+.builds
+.vs/
+
+# Code::Blocks
+*.cbp
+*.layout
+*.depend
+
+# Qt Creator
+*.pro.user
+*.pro.user.*
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+
+# 调试信息
+*.dSYM/
+*.pdb
+
+# 临时文件
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# IDE 和编辑器文件
+.vscode/
+.idea/
+*.sublime-*
+
+# 日志文件
+*.log
