@@ -10,14 +10,14 @@
 
 ## 进度表
 
-|             章节              |                             代码                             |                   笔记                   |
-| :---------------------------: | :----------------------------------------------------------: | :--------------------------------------: |
-| References and Move Semantics | <a href="1 - References and Move Semantics/references.cpp">references.cpp</a> |                    \                     |
-|                               | <a href="1 - References and Move Semantics/move_semantics.cpp">move_semantics.cpp</a> | <a href="notes/移动语义.md">移动语义</a> |
-|                               |                                                              |                                          |
+| 序号 |             章节              |                             代码                             |                   笔记                   |
+| :--: | :---------------------------: | :----------------------------------------------------------: | :--------------------------------------: |
+|  1   | References and Move Semantics | <a href="1 - References and Move Semantics/references.cpp">references.cpp</a> |                    \                     |
+|      |                               | <a href="1 - References and Move Semantics/move_semantics.cpp">move_semantics.cpp</a> | <a href="notes/移动语义.md">移动语义</a> |
 
 
 
 ## 许可证
 
-源代码文件归属<a href="https://github.com/cmu-db/15445-bootcamp">原仓库</a>所有，扩充的笔记内容归属本人所有。本仓库仅作为个人学习进度的记录，以及相关材料的备份和整理。
+1. 源代码文件归属<a href="https://github.com/cmu-db/15445-bootcamp">原仓库</a>所有，扩充的笔记内容归属本人所有。
+2. 本仓库仅作为个人学习进度的记录，以及相关材料的整理备份、翻译和补充。
