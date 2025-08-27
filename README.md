@@ -20,5 +20,6 @@
 
 ## 许可证
 
-1. 源代码文件归属 <a href="https://github.com/cmu-db/15445-bootcamp">原仓库</a> 所有，扩充的笔记内容归属本人所有。
-2. 本仓库仅作为个人学习进度的记录，以及相关材料的整理备份、翻译和补充。
+1. 本项目基于 <a href="https://github.com/cmu-db/15445-bootcamp">15445-bootcamp</a> 进行翻译和扩展，原项目版权（包括源代码文件）归属 <a href="https://github.com/cmu-db/15445-bootcamp/graphs/contributors">**原作者**</a> 所有，扩充的笔记内容归属本人所有，均遵循  <a href="LICENSE">Apache License 2.0</a> 协议。
+2. 本仓库作为个人学习进度的记录，包括相关材料的整理备份、翻译和补充，并对有需要的人提供帮助。
+
