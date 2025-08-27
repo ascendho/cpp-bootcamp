@@ -68,8 +68,8 @@ public:
   uint32_t GetAge() { return age_; }
 
   // 返回类型中的这个 & 符号意味着我们返回对 nicknames_[i] 处字符串的引用。
-  // 这也意味着我们不拷贝结果字符串，此函数返回的内存地址
-  // 实际上是指向向量 nicknames_ 内存的地址。
+  // 这也意味着我们不拷贝结果字符串，
+  // 此函数返回的内存地址实际上是指向向量 nicknames_ 内存的地址。
   std::string &GetNicknameAtI(size_t i) { return nicknames_[i]; }
 
   void PrintValid() {
