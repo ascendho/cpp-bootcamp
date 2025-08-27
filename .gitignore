@@ -21,6 +21,7 @@
 # 常见的可执行文件名
 references
 move_semantics
+move_constructors
 main
 test
 a.out
