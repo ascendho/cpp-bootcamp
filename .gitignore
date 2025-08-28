@@ -22,6 +22,7 @@
 references
 move_semantics
 move_constructors
+templated_functions
 main
 test
 a.out
