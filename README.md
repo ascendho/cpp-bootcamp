@@ -14,7 +14,7 @@
 | :--: | :---------------------------: | :----------------------------------------------------------: | :------------------------------------------: | :----------------------------------------------------------: |
 |  1   | References and Move Semantics | <a href="1 - References and Move Semantics/references.cpp">references.cpp</a> |                     N/A                      | [References](https://en.cppreference.com/w/cpp/language/reference) |
 |      |                               | <a href="1 - References and Move Semantics/move_semantics.cpp">move_semantics.cpp</a> |   <a href="notes/移动语义.md">移动语义</a>   | [std::move](https://en.cppreference.com/w/cpp/utility/move)  |
-|      |                               | <a href="1 - References and Move Semantics/move_constructors.cpp">move_constructors.cpp</a> | <a href="notes/移动构造器.md">移动构造器</a> | [Move Constructors](https://en.cppreference.com/w/cpp/language/move_constructor) & [Move Assignment Operators](https://en.cppreference.com/w/cpp/language/move_assignment) |
+|      |                               | <a href="1 - References and Move Semantics/move_constructors.cpp">move_constructors.cpp</a> | <a href="notes/移动构造器.md">移动构造器</a> | [Move Constructors](https://en.cppreference.com/w/cpp/language/move_constructor)<br>[Move Assignment Operators](https://en.cppreference.com/w/cpp/language/move_assignment) |
 |  2   |         C++ Templates         | <a href="2 - C++ Templates/templated_functions.cpp">templated_functions.cpp</a> |   <a href="notes/模版函数.md">模版函数</a>   | [Templated Functions](https://en.cppreference.com/w/cpp/language/function_template) |
 
 
