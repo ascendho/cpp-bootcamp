@@ -23,6 +23,7 @@ references
 move_semantics
 move_constructors
 templated_functions
+templated_classes
 main
 test
 a.out
@@ -34,6 +35,7 @@ CMakeFiles/
 cmake_install.cmake
 Makefile
 *.cmake
+build/
 
 # Visual Studio
 *.vcxproj

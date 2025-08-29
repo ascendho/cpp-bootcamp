@@ -25,3 +25,4 @@ add_executable(move_constructors "1 - References and Move Semantics/move_constru
 
 # Compiling templates executables
 add_executable(templated_functions "2 - C++ Templates/templated_functions.cpp")
+add_executable(templated_classes "2 - C++ Templates/templated_classes.cpp")

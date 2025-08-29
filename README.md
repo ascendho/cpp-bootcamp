@@ -10,12 +10,13 @@
 
 ## 进度表
 
-| 序号 |             章节              |                             代码                             |                     笔记                     |                           参考资料                           |
-| :--: | :---------------------------: | :----------------------------------------------------------: | :------------------------------------------: | :----------------------------------------------------------: |
-|  1   | References and Move Semantics | <a href="1 - References and Move Semantics/references.cpp">references.cpp</a> |                     N/A                      | [References](https://en.cppreference.com/w/cpp/language/reference) |
-|      |                               | <a href="1 - References and Move Semantics/move_semantics.cpp">move_semantics.cpp</a> |   <a href="notes/移动语义.md">移动语义</a>   | [std::move](https://en.cppreference.com/w/cpp/utility/move)  |
-|      |                               | <a href="1 - References and Move Semantics/move_constructors.cpp">move_constructors.cpp</a> | <a href="notes/移动构造器.md">移动构造器</a> | [Move Constructors](https://en.cppreference.com/w/cpp/language/move_constructor)<br>[Move Assignment Operators](https://en.cppreference.com/w/cpp/language/move_assignment) |
-|  2   |         C++ Templates         | <a href="2 - C++ Templates/templated_functions.cpp">templated_functions.cpp</a> |   <a href="notes/模版函数.md">模版函数</a>   | [Templated Functions](https://en.cppreference.com/w/cpp/language/function_template) |
+| 序号 |             章节              |                             代码                             |                        笔记                         |
+| :--: | :---------------------------: | :----------------------------------------------------------: | :-------------------------------------------------: |
+|  1   | References and Move Semantics | <a href="1 - References and Move Semantics/references.cpp">references.cpp</a> |                         N/A                         |
+|      |                               | <a href="1 - References and Move Semantics/move_semantics.cpp">move_semantics.cpp</a> |     <a href="notes/移动语义.md">移动语义.md</a>     |
+|      |                               | <a href="1 - References and Move Semantics/move_constructors.cpp">move_constructors.cpp</a> | <a href="notes/移动构造函数.md">移动构造函数.md</a> |
+|  2   |         C++ Templates         | <a href="2 - C++ Templates/templated_functions.cpp">templated_functions.cpp</a> |     <a href="notes/模版函数.md">模版函数.md</a>     |
+|      |                               | <a href="2 - C++ Templates/templated_classes.cpp">templated_classes.cpp</a> |                         N/A                         |
 
 
 
@@ -26,8 +27,8 @@
 ```cmake
 $ mkdir build
 $ cd build
-$ cmake ..
-$ make -j8
+$ cmake ..      // 调用CMake工具，去上级目录寻找CMakeLists.txt文件
+$ make -j8      // 调用Make工具来执行编译，-j表示并行，8表示最多使用8个CPU核心 
 ```
 
 执行这些命令后，生成的可执行文件将位于 `build` 目录中。例如， `1 - References and Move Semantics/references.cpp`  文件会编译为 `references` 可执行文件，位于 `./build` 目录下。其余代码文件亦是如此。
