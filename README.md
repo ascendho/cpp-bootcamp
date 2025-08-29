@@ -17,10 +17,11 @@
 |      |                               | <a href="1 - References and Move Semantics/move_constructors.cpp">move_constructors.cpp</a> | <a href="notes/移动构造函数.md">移动构造函数.md</a> |
 |  2   |         C++ Templates         | <a href="2 - C++ Templates/templated_functions.cpp">templated_functions.cpp</a> |     <a href="notes/模版函数.md">模版函数.md</a>     |
 |      |                               | <a href="2 - C++ Templates/templated_classes.cpp">templated_classes.cpp</a> |                         N/A                         |
+|  3   |             Misc              |  <a href="3 - Misc/wrapper_class.cpp">wrapper_class.cpp</a>  |                                                     |
 
 
 
-## 构建
+## 构建方式
 
 该训练营包含若干 C++ 代码文件，位于各章节目录下，建议深入研读。每个代码文件均可编译为与其同名的可执行文件。请使用 CMake 构建这些可执行文件，以下一组命令应能完成所有可执行文件的构建：
 
@@ -37,13 +38,11 @@ $ make -j8      // 调用Make工具来执行编译，-j表示并行，8表示最
 
 ## 参考资源
 
-在你熟悉C++的过程中，还有很多其他有用的资源。下面列举几例： 
+虽然这次集训营力求尽可能全面，但它仍然只涵盖了使用现代 C++ 的基础内容，在你应用 C++ 构建大型程序的过程中，还需要查阅很多其它可用的资源。下面列举几例，它们的内容都非常全面（比这次集训营全面得多），但在可读性方面可能有所欠缺。但总的来说，我认为还是应该试着去阅读并理解这些资料，尤其是在做项目的时候。
 
 1.  <a href="https://en.cppreference.com/w">cppreference</a>：非官方但相当准确的C++和C标准摘要及示例
-
-2. <a href="https://cplusplus.com/">cplusplus</a>：包含 <a href="https://cplusplus.com/doc/tutorial/">C++语言教程</a> 和 <a href="https://cplusplus.com/reference/">C++库参考手册</a> 两部分内容
-
-3. <a href="https://github.com/changkun/modern-cpp-tutorial">《现代C++教程》</a>：此GitHub仓库包含一些实用的信息和练习题
+2.  <a href="https://cplusplus.com/">cplusplus</a>：包含 <a href="https://cplusplus.com/doc/tutorial/">C++语言教程</a> 和 <a href="https://cplusplus.com/reference/">C++库参考手册</a> 两部分内容
+3.  <a href="https://github.com/changkun/modern-cpp-tutorial">《现代 C++ 教程》</a>：此GitHub仓库包含一些实用的信息和练习题
 
 
 

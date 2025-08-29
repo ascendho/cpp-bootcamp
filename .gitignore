@@ -19,11 +19,6 @@
 
 # 无扩展名的可执行文件 (Unix/Linux/macOS)
 # 常见的可执行文件名
-references
-move_semantics
-move_constructors
-templated_functions
-templated_classes
 main
 test
 a.out
