@@ -35,6 +35,18 @@ $ make -j8      // 调用Make工具来执行编译，-j表示并行，8表示最
 
 
 
+## 参考资源
+
+在你熟悉C++的过程中，还有很多其他有用的资源。下面列举几例： 
+
+1.  <a href="https://en.cppreference.com/w">cppreference</a>：非官方但相当准确的C++和C标准摘要及示例
+
+2. <a href="https://cplusplus.com/">cplusplus</a>：包含 <a href="https://cplusplus.com/doc/tutorial/">C++语言教程</a> 和 <a href="https://cplusplus.com/reference/">C++库参考手册</a> 两部分内容
+
+3. <a href="https://github.com/changkun/modern-cpp-tutorial">《现代C++教程》</a>：此GitHub仓库包含一些实用的信息和练习题
+
+
+
 ## 许可证
 
 1. 本项目基于 <a href="https://github.com/cmu-db/15445-bootcamp">15445-bootcamp</a> 进行翻译和扩展，原项目版权（包括源代码文件）归属 <a href="https://github.com/cmu-db/15445-bootcamp/graphs/contributors">**原作者**</a> 所有，扩充的笔记内容归属本人所有，均遵循  <a href="LICENSE">Apache License 2.0</a> 协议。
