@@ -17,7 +17,7 @@
 |      |                               | <a href="1 - References and Move Semantics/move_constructors.cpp">move_constructors.cpp</a> | <a href="notes/移动构造函数.md">移动构造函数.md</a> |
 |  2   |         C++ Templates         | <a href="2 - C++ Templates/templated_functions.cpp">templated_functions.cpp</a> |     <a href="notes/模版函数.md">模版函数.md</a>     |
 |      |                               | <a href="2 - C++ Templates/templated_classes.cpp">templated_classes.cpp</a> |                         N/A                         |
-|  3   |             Misc              |  <a href="3 - Misc/wrapper_class.cpp">wrapper_class.cpp</a>  |                                                     |
+|  3   |             Misc              |  <a href="3 - Misc/wrapper_class.cpp">wrapper_class.cpp</a>  |       <a href="notes/包装类.md">包装类.md</a>       |
 
 
 
