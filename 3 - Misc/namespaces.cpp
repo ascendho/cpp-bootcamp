@@ -40,7 +40,7 @@ namespace ABC {
     // 我们在ABC::DEF命名空间中定义一个函数uses_spam。
     // 要从ABC::DEF命名空间引用ABC::spam，我们别无选择，
     // 只能通过其完整标识符引用它。
-    // 尝试通过spam引用它将导致编译错误，
+    // 尝试通过spam引用它将导致编译错误，(见下注释)
     // 声明不存在名为spam或ABC::DEF::spam的函数。
     // 注意，可以通过完整标识符引用每个函数，
     // 但这样做会使编码速度变得低效。
@@ -49,7 +49,12 @@ namespace ABC {
       ABC::spam(a);
 
       // 尝试取消注释这段代码，它在这里调用spam(a)。
-      // spam(a);
+      // (注：原注释说这里会编译错误，
+      // 然而本人根据实践得知，是可以编译通过的）
+      // 参考资料：https://en.cppreference.com/w/cpp/language/unqualified_lookup.html
+      // 已有人在原仓库中提出issue，见：https://github.com/cmu-db/15445-bootcamp/issues/22
+      std::cout << "看起来是可以编译的！" << std::endl;
+      spam(a);
     }
   }
 
