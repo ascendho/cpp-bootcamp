@@ -19,6 +19,7 @@
 |      |                               | <a href="2 - C++ Templates/templated_classes.cpp">templated_classes.cpp</a> |                         N/A                         |
 |  3   |             Misc              |  <a href="3 - Misc/wrapper_class.cpp">wrapper_class.cpp</a>  |       <a href="notes/包装类.md">包装类.md</a>       |
 |      |                               |       <a href="3 - Misc/iterator.cpp">iterator.cpp</a>       |       <a href="notes/迭代器.md">迭代器.md</a>       |
+|      |                               |     <a href="3 - Misc\namespaces.cpp">namespaces.cpp</a>     |     <a href="notes/命名空间.md">命名空间.md</a>     |
 
 
 

@@ -30,3 +30,4 @@ add_executable(templated_classes "2 - C++ Templates/templated_classes.cpp")
 # Compiling misc executables
 add_executable(wrapper_class "3 - Misc/wrapper_class.cpp")
 add_executable(iterator "3 - Misc/iterator.cpp")
+add_executable(namespaces "3 - Misc/namespaces.cpp")
