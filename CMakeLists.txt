@@ -35,3 +35,4 @@ add_executable(namespaces "3 - Misc/namespaces.cpp")
 # Compiling Containers executables
 add_executable(vectors "4 - Containers/vectors.cpp")
 add_executable(sets "4 - Containers/sets.cpp")
+add_executable(unordered_maps "4 - Containers/unordered_maps.cpp")

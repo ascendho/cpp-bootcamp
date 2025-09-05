@@ -22,6 +22,7 @@
 |      |                               |     <a href="3 - Misc/namespaces.cpp">namespaces.cpp</a>     |     <a href="notes/命名空间.md">命名空间.md</a>     |
 |  4   |          Containers           |     <a href="4 - Containers/vectors.cpp">vectors.cpp</a>     |         <a href="notes/向量.md">向量.md</a>         |
 |      |                               |        <a href="4 - Containers\sets.cpp">sets.cpp</a>        |         <a href="notes/集合.md">集合.md</a>         |
+|      |                               | <a href="4 - Containers\unordered_maps.cpp">unordered_maps.cpp</a> |       <a href="notes\哈希表.md">哈希表.md</a>       |
 
 
 
