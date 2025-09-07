@@ -23,6 +23,7 @@
 |  4   |          Containers           |     <a href="4 - Containers/vectors.cpp">vectors.cpp</a>     |         <a href="notes/向量.md">向量.md</a>         |
 |      |                               |        <a href="4 - Containers\sets.cpp">sets.cpp</a>        |         <a href="notes/集合.md">集合.md</a>         |
 |      |                               | <a href="4 - Containers\unordered_maps.cpp">unordered_maps.cpp</a> |       <a href="notes\哈希表.md">哈希表.md</a>       |
+|      |                               |        <a href="4 - Containers/auto.cpp">auto.cpp</a>        |         <a href="notes/auto.md">auto.md</a>         |
 
 
 
