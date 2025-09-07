@@ -37,3 +37,6 @@ add_executable(vectors "4 - Containers/vectors.cpp")
 add_executable(sets "4 - Containers/sets.cpp")
 add_executable(unordered_maps "4 - Containers/unordered_maps.cpp")
 add_executable(auto "4 - Containers/auto.cpp")
+
+# Compiling Memory executables
+add_executable(unique_ptr "5 - Memory/unique_ptr.cpp")
