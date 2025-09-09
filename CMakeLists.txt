@@ -40,3 +40,4 @@ add_executable(auto "4 - Containers/auto.cpp")
 
 # Compiling Memory executables
 add_executable(unique_ptr "5 - Memory/unique_ptr.cpp")
+add_executable(shared_ptr "5 - Memory/shared_ptr.cpp")
