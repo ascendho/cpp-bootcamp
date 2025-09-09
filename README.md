@@ -24,9 +24,10 @@
 |      |                               |        <a href="4 - Containers\sets.cpp">sets.cpp</a>        |         <a href="notes/集合.md">集合.md</a>         |
 |      |                               | <a href="4 - Containers\unordered_maps.cpp">unordered_maps.cpp</a> |       <a href="notes\哈希表.md">哈希表.md</a>       |
 |      |                               |        <a href="4 - Containers/auto.cpp">auto.cpp</a>        |         <a href="notes/auto.md">auto.md</a>         |
-|  5   |            Memory             |    <a href="5 - Memory/unique_ptr.cpp">unique_ptr.cpp</a>    |     <a href="notes/智能指针I.md">智能指针I</a>      |
-|      |                               |    <a href="5 - Memory\shared_ptr.cpp">shared_ptr.cpp</a>    |    <a href="notes/智能指针II.md">智能指针II</a>     |
+|  5   |            Memory             |    <a href="5 - Memory/unique_ptr.cpp">unique_ptr.cpp</a>    |    <a href="notes/智能指针I.md">智能指针I.md</a>    |
+|      |                               |    <a href="5 - Memory\shared_ptr.cpp">shared_ptr.cpp</a>    |   <a href="notes/智能指针II.md">智能指针II.md</a>   |
 |  6   |       Synch Primitives        |    <a href="6 - Synch Primitives/mutex.cpp">mutex.cpp</a>    |       <a href="notes/互斥锁.md">互斥锁.md</a>       |
+|      |                               | <a href="6 - Synch Primitives/scoped_lock.cpp">scoped_lock.cpp</a> |     <a href="notes/作用域锁.md">作用域锁.md</a>     |
 
 
 

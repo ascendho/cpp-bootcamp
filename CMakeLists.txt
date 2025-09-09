@@ -44,3 +44,4 @@ add_executable(shared_ptr "5 - Memory/shared_ptr.cpp")
 
 # Compiling Synch Primitives executables
 add_executable(mutex "6 - Synch Primitives/mutex.cpp")
+add_executable(scoped_lock "6 - Synch Primitives/scoped_lock.cpp")
