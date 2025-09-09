@@ -26,6 +26,7 @@
 |      |                               |        <a href="4 - Containers/auto.cpp">auto.cpp</a>        |         <a href="notes/auto.md">auto.md</a>         |
 |  5   |            Memory             |    <a href="5 - Memory/unique_ptr.cpp">unique_ptr.cpp</a>    |     <a href="notes/智能指针I.md">智能指针I</a>      |
 |      |                               |    <a href="5 - Memory\shared_ptr.cpp">shared_ptr.cpp</a>    |    <a href="notes/智能指针II.md">智能指针II</a>     |
+|  6   |       Synch Primitives        |    <a href="6 - Synch Primitives/mutex.cpp">mutex.cpp</a>    |       <a href="notes/互斥锁.md">互斥锁.md</a>       |
 
 
 
