@@ -47,3 +47,6 @@ add_executable(mutex "6 - Synch Primitives/mutex.cpp")
 add_executable(scoped_lock "6 - Synch Primitives/scoped_lock.cpp")
 add_executable(condition_variable "6 - Synch Primitives/condition_variable.cpp")
 add_executable(rwlock "6 - Synch Primitives/rwlock.cpp")
+
+# compiling spring2024 executables
+add_executable(s24_my_ptr "7 - spring2024/s24_my_ptr.cpp")
