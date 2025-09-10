@@ -28,6 +28,7 @@
 |      |                               |    <a href="5 - Memory\shared_ptr.cpp">shared_ptr.cpp</a>    |   <a href="notes/智能指针II.md">智能指针II.md</a>   |
 |  6   |       Synch Primitives        |    <a href="6 - Synch Primitives/mutex.cpp">mutex.cpp</a>    |       <a href="notes/互斥锁.md">互斥锁.md</a>       |
 |      |                               | <a href="6 - Synch Primitives/scoped_lock.cpp">scoped_lock.cpp</a> |     <a href="notes/作用域锁.md">作用域锁.md</a>     |
+|      |                               | <a href="6 - Synch Primitives\condition_variable.cpp">condition_variable.cpp</a> |     <a href="notes/条件变量.md">条件变量.md</a>     |
 
 
 
