@@ -30,7 +30,7 @@
 |      |                               | <a href="6 - Synch Primitives/scoped_lock.cpp">scoped_lock.cpp</a> |     <a href="notes/作用域锁.md">作用域锁.md</a>     |
 |      |                               | <a href="6 - Synch Primitives\condition_variable.cpp">condition_variable.cpp</a> |     <a href="notes/条件变量.md">条件变量.md</a>     |
 |      |                               |   <a href="6 - Synch Primitives\rwlock.cpp">rwlock.cpp</a>   |        <a href="notes/读写锁">读写锁.md</a>         |
-|  7   |          spring2024           |  <a href="7 - spring2024\s24_my_ptr.cpp">s24_my_ptr.cpp</a>  |                         N/A                         |
+|  -   |          spring2024           |    <a href="spring2024\s24_my_ptr.cpp">s24_my_ptr.cpp</a>    |                         N/A                         |
 
 
 
