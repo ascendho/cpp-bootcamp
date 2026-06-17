@@ -1,8 +1,8 @@
 ## auto
 
-`auto` 关键字的作用主要是:
+The `auto` keyword primarily serves to:
 
-1. 自动类型推断
-2. 简化复杂类型声明
-3. 提高代码可读性
-4. 减少维护成本（如当类型发生变化时，使用 `auto` 的代码不需要修改类型声明）
+1. Automatically deduce types
+2. Simplify complex type declarations
+3. Improve code readability
+4. Reduce maintenance cost (e.g., when a type changes, code using `auto` does not need its type declarations updated)
