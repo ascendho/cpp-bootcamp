@@ -1,5 +1,10 @@
 > [中文版本](README.zh.md) is also available.
 
+[![Build](https://github.com/ascendho/cpp-bootcamp/actions/workflows/build.yml/badge.svg)](https://github.com/ascendho/cpp-bootcamp/actions/workflows/build.yml)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+[![C++17](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://en.cppreference.com/w/cpp/17)
+[![Stars](https://img.shields.io/github/stars/ascendho/cpp-bootcamp?style=social)](https://github.com/ascendho/cpp-bootcamp)
+
 ## C++ Modern Features Bootcamp
 
 ![image-20250825222353105](assets/image-20250825222353105.png)
@@ -57,3 +62,7 @@ While this bootcamp strives to be as comprehensive as possible, it still only co
 
 1. This project is based on <a href="https://github.com/cmu-db/15445-bootcamp">15445-bootcamp</a>, translated and extended. The original project copyright (including source code files) belongs to the <a href="https://github.com/cmu-db/15445-bootcamp/graphs/contributors">**original authors**</a>. The expanded notes belong to the repository owner. All content is licensed under the <a href="LICENSE">Apache License 2.0</a>.
 2. This repository serves as a personal learning record, including organization, backup, translation, and supplementation of related materials, and aims to help those in need.
+
+## Contributing
+
+Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines, and please follow our [Code of Conduct](CODE_OF_CONDUCT.md).

@@ -1,5 +1,10 @@
 > [English version](README.md) is also available.
 
+[![Build](https://github.com/ascendho/cpp-bootcamp/actions/workflows/build.yml/badge.svg)](https://github.com/ascendho/cpp-bootcamp/actions/workflows/build.yml)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+[![C++17](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://en.cppreference.com/w/cpp/17)
+[![Stars](https://img.shields.io/github/stars/ascendho/cpp-bootcamp?style=social)](https://github.com/ascendho/cpp-bootcamp)
+
 ## C++ 现代语法特征训练营
 
 ![image-20250825222353105](assets/image-20250825222353105.png)
@@ -65,4 +70,8 @@ $ make -j8      // 调用Make工具来执行编译，-j表示并行，8表示最
 
 1. 本项目基于 <a href="https://github.com/cmu-db/15445-bootcamp">15445-bootcamp</a> 进行翻译和扩展，原项目版权（包括源代码文件）归属 <a href="https://github.com/cmu-db/15445-bootcamp/graphs/contributors">**原作者**</a> 所有，扩充的笔记内容归属本人所有，均遵循  <a href="LICENSE">Apache License 2.0</a> 协议。
 2. 本仓库作为个人学习进度的记录，包括相关材料的整理备份、翻译和补充，并对有需要的人提供帮助。
+
+## 参与贡献
+
+欢迎贡献！请参阅 [CONTRIBUTING.md](CONTRIBUTING.md) 了解指南，并遵守我们的[行为准则](CODE_OF_CONDUCT.md)。
 
